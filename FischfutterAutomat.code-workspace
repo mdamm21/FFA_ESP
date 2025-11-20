@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "FischfutterAutomat",
+			"path": "../FischfutterAutomat"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
